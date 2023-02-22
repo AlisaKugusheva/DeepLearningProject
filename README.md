@@ -1,8 +1,8 @@
 # Deep Learning Project
 # Single Image Super Resolution on faces dataset
 
-Alisa Kugusheva, Julien Nguyen Van
-kugusheva.ad@gmail.com </br>, nguyenvanjulien@gmail.com </br>
+Alisa Kugusheva, Julien Nguyen Van <br/>
+kugusheva.ad@gmail.com, nguyenvanjulien@gmail.com <br/>
 
 This repository contains:
 1. The [presentation](https://youtu.be/C2b1vl_4BBA) of the project.
