@@ -12,3 +12,5 @@ This repository contains:
   [NLSN](https://github.com/AlisaKugusheva/DeepLearningProject/blob/main/NLSN.ipynb), 
   [ELAN](https://github.com/AlisaKugusheva/DeepLearningProject/blob/main/ELAN.ipynb).
 3. Preprocessing and configuration scripts needed for the created dataset.
+4. The [Celeba small dataset] ().
+5. The [report] ().
